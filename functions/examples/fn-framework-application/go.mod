@@ -4,7 +4,7 @@ go 1.26.0
 
 require (
 	github.com/spf13/cobra v1.10.2
-	k8s.io/apimachinery v0.37.0
+	k8s.io/apimachinery v0.37.1
 	k8s.io/kube-openapi v0.0.0-20260721132016-d427ff9ee9ad
 	sigs.k8s.io/kustomize/kyaml v0.14.1
 )
